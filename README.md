@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Nathan Andrade 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · SAP Analytics Consultant · AI Enthusiast</b><br/>
-  Building enterprise-grade tools and data-driven web applications
+  <b>SAP Analytics & Full-Stack Enthusiast · AI Explorer</b><br/>
+  Learning by building — from SAP data pipelines to modern web apps
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **[NG Finance](https://github.com/TargaryenAG/NG-Finance)** — personal finance platform with AI categorization, multi-bank sync and spending analytics
-- 🏢 Working professionally with **SAP Analytics Cloud**, **SAP BW/4HANA** and **SAP Data Sphere**
-- 💻 Full-Stack developer focused on **Next.js**, **TypeScript** and **PostgreSQL**
-- 🤖 Building AI integrations with **Claude API** and **LLMs**
+- 🏢 Studying and experimenting with **SAP Analytics Cloud**, **SAP BW/4HANA** and **SAP Data Sphere**
+- 💻 Enthusiast of **Next.js**, **TypeScript** and **PostgreSQL** — learning by doing
+- 🤖 Exploring AI integrations with **Claude API** and **LLMs**
 - 🇧🇷 Based in Brazil
 
 ---
