@@ -27,13 +27,33 @@
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|---|---|---|
-| Jun 2022 – Present | **Systems Analyst** — SAP Analytics Tech Lead | Fortlev, Serra ES |
-| May 2019 – Jun 2022 | **Commercial Performance Analyst** — KPIs, SAP SD/Analytics key user | Fortlev, Serra ES |
-| Jan 2017 – May 2019 | **Commercial Performance Assistant** — reports & managerial analysis | Fortlev, Serra ES |
-| Oct 2015 – Dec 2016 | Commercial Intelligence Intern | Fortlev, Serra ES |
-| Aug 2014 – Sep 2015 | Young Apprentice — Commercial Intelligence | Fortlev, Serra ES |
+**🏢 Fortlev, Serra ES — Systems Analyst** `Jun 2022 – Present`
+
+> Technical lead of the SAP Analytics area — responsible for data modeling, development of strategic indicators and BI solutions to meet business demands.
+
+`SAP BW/4HANA` `SAP Analytics Cloud` `SAP BO` `FIORI Analytics` `BPC` `ABAP CDS View` `SAP HANA DB` `MS SQL Server` `Power BI`
+
+---
+
+**🏢 Fortlev, Serra ES — Commercial Performance Analyst** `May 2019 – Jun 2022`
+
+> Statistical analysis of commercial performance, KPI and dashboard development, and data processing to support strategic decisions. Acted as SAP SD and SAP Analytics key user, contributing to the ERP SAP implementation and updates.
+
+`SAP BO` `Power BI` `Excel / VBA` `KPI Management` `Pricing & Profitability Analysis` `ArcGIS` `Market Strategy`
+
+---
+
+**🏢 Fortlev, Serra ES — Commercial Performance Assistant** `Jan 2017 – May 2019`
+
+> Managerial sales analysis and development of management support reports. Customer record maintenance and configuration in the SAP sales force system.
+
+`SAP BO` `Power BI` `Excel` `Report Development`
+
+---
+
+**🏢 Fortlev, Serra ES — Commercial Intelligence Intern** `Oct 2015 – Dec 2016`
+
+**🏢 Fortlev, Serra ES — Young Apprentice, Commercial Intelligence** `Aug 2014 – Sep 2015`
 
 ---
 
