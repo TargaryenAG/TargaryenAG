@@ -65,19 +65,11 @@
 
 ## 🏅 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/01c1ce7f-22ae-4de4-af28-7c90f5af939d">
-    <img src="https://img.shields.io/badge/SAP_Certified-Data_Engineer_BW%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/de962de6-291e-4340-bddd-9c3de46ed11a">
-    <img src="https://img.shields.io/badge/SAP_Certified-Data_Analyst_Analytics_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/207197d7-1618-4136-b948-8d626a2dfd34">
-    <img src="https://img.shields.io/badge/SAP_Certified-Project_Manager_SAP_Activate-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  </a>
-</p>
+| | Certification | Issuer | |
+|:---:|---|:---:|:---:|
+| 🏅 | **SAP Certified — Data Engineer, SAP BW/4HANA** | SAP | [![Verify](https://img.shields.io/badge/Credly-↗-0FAAFF?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/01c1ce7f-22ae-4de4-af28-7c90f5af939d) |
+| 🏅 | **SAP Certified — Data Analyst, SAP Analytics Cloud** | SAP | [![Verify](https://img.shields.io/badge/Credly-↗-0FAAFF?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/de962de6-291e-4340-bddd-9c3de46ed11a) |
+| 🏅 | **SAP Certified — Project Manager, SAP Activate** | SAP | [![Verify](https://img.shields.io/badge/Credly-↗-0FAAFF?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/207197d7-1618-4136-b948-8d626a2dfd34) |
 
 ---
 
