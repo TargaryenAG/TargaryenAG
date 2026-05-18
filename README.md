@@ -1,13 +1,15 @@
-<h1 align="center">Hi, I'm Nathan 👋</h1>
+<h1 align="center">Hi, I'm Nathan Andrade 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer · SAP Analytics Consultant · AI Enthusiast</b><br/>
-  Building modern web applications and data-driven solutions
+  Building enterprise-grade tools and data-driven web applications
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nathanag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nathan-andrade-guilherme-1b8bbb12b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/SAP_Certified-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -15,11 +17,25 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[NG Finance](https://github.com/TargaryenAG/NG-Finance)** — a personal finance platform with AI categorization
-- 🏢 Working with **SAP Analytics Cloud**, SAP BW/4HANA and SAP Data Sphere
-- 💻 Full-Stack developer specializing in **Next.js**, **TypeScript** and **PostgreSQL**
-- 🤖 Exploring AI integrations with **Claude API** and **LLMs**
+- 🔭 Currently building **[NG Finance](https://github.com/TargaryenAG/NG-Finance)** — personal finance platform with AI categorization, multi-bank sync and spending analytics
+- 🏢 Working professionally with **SAP Analytics Cloud**, **SAP BW/4HANA** and **SAP Data Sphere**
+- 💻 Full-Stack developer focused on **Next.js**, **TypeScript** and **PostgreSQL**
+- 🤖 Building AI integrations with **Claude API** and **LLMs**
 - 🇧🇷 Based in Brazil
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/01c1ce7f-22ae-4de4-af28-7c90f5af939d">
+    <img src="https://img.shields.io/badge/SAP_Certified-Data_Engineer_BW%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/207197d7-1618-4136-b948-8d626a2dfd34">
+    <img src="https://img.shields.io/badge/SAP_Certified-Project_Manager_SAP_Activate-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -42,7 +58,7 @@
 **SAP & Analytics**
 
 ![SAP](https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_BW/4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_BW%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_Data_Sphere-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 **AI & Tools**
@@ -102,6 +118,19 @@
       <img src="https://img.shields.io/badge/Real--Time-00C851?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>⚙️ SAP ETL CLI</h3>
+      <p>Command-line tool for validating and transforming CSV data files for SAP BAPI import — supports Material Master, Vendor, Customer and G/L Accounts with quality reports.</p>
+      <a href="https://github.com/TargaryenAG/sap-etl-cli">
+        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SAP_BAPI-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -109,8 +138,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TargaryenAG&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TargaryenAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargaryenAG&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TargaryenAG&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ---
